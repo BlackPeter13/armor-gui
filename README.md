@@ -21,7 +21,7 @@ $ cd build
 $ cmake ..
 $ make -j4 armor-crypto
 $ cd ../..
-$ git clone https://github.com/Armor-Network/armor-gui.git
+$ git clone https://github.com/BlackPeter13/armor-gui.git
 $ cd armor-gui
 $ mkdir -p build
 $ cd build
@@ -40,6 +40,6 @@ $ cd build
 $ cmake ..
 $ make -j4 armor-crypto
 $ cd ../..
-$ git clone https://github.com/Armor-Network/armor-gui.git
+$ git clone https://github.com/BlackPeter13/armor-gui.git
 ```
 Now open the project file armor-gui/src/armor-gui.pro in QtCreator and build it.
